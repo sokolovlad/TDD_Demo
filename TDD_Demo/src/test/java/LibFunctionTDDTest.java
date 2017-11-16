@@ -12,7 +12,7 @@ public class LibFunctionTDDTest {
 	@Before
 	public void setUp() throws Exception {
 		lt = new LibFunctionTDD();
-		libcardno = 123456;
+		libcardno = 12346;
 		noofbooks = 7;
 		isdn=7608768l;
 		
